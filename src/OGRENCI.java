@@ -3,6 +3,7 @@ public class OGRENCI {
 
         for (int i = 0; i < 5; i++) {
             System.out.println("merhaba");
+            System.out.println("hayir");
         }
 
     }
